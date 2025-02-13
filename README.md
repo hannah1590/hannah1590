@@ -18,9 +18,7 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 > 📦 687.9 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
@@ -29,10 +27,10 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-🌆 Daytime                244 commits         ███████████████████░░░░░░   74.85 % 
-🌃 Evening                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+🌆 Daytime                244 commits         ███████████████████░░░░░░   74.62 % 
+🌃 Evening                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 ```
 
 
@@ -48,7 +46,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
- Last Updated on 13/02/2025 00:32:34 UTC
+
+ Last Updated on 13/02/2025 01:02:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
