@@ -1,10 +1,13 @@
-## Hi there 👋
+## Welcome! :smile:
+My name is Hannah Fasco and I am a current Champlain College senior working on getting my degree in Game Programming :video_game::desktop_computer:\
+I have a passion for video games and coding, but love listening to music and solving puzzles :musical_note::jigsaw:\
+\
+Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check out my projects on my [website](https://hannah1590.github.io/)!
 
-![](https://raw.githubusercontent.com/hannah1590/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/hannah1590/github-stats/master/generated/overview.svg#gh-light-mode-only)
+## Fun Stats
+![](https://raw.githubusercontent.com/hannah1590/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/hannah1590/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hannah1590/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/hannah1590/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/hannah1590/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/hannah1590/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -45,21 +48,16 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-
  Last Updated on 13/02/2025 00:32:34 UTC
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-simple-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-simple-->
+<!--
+Remove periods when ready to generate waka time
+<.!--START_SECTION:waka-simple--.>
+<.!--END_SECTION:waka-simple--.>
+-->
 
 <!--
-**hannah1590/hannah1590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
