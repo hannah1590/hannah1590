@@ -10,13 +10,13 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 687.9 kB Used in GitHub's Storage 
- > 
-> 🏆 52 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -27,10 +27,10 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-🌆 Daytime                244 commits         ███████████████████░░░░░░   74.62 % 
-🌃 Evening                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+🌆 Daytime                245 commits         ███████████████████░░░░░░   74.70 % 
+🌃 Evening                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 
 
@@ -40,14 +40,15 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 24 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+assignment1              1 hr 8 mins         ████████████████████░░░░░   81.48 % 
+PuzzleCollection         15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
 ```
 
 
- Last Updated on 13/02/2025 12:38:08 UTC
+ Last Updated on 14/02/2025 12:37:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
