@@ -10,13 +10,13 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 687.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 53 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -48,7 +48,7 @@ PuzzleCollection         15 mins             █████░░░░░░�
 ```
 
 
- Last Updated on 14/02/2025 12:37:31 UTC
+ Last Updated on 15/02/2025 12:34:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
