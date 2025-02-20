@@ -10,7 +10,7 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875.4%20thousand%20lines%20of%20code-blue)
 
@@ -46,13 +46,13 @@ C++                      3 hrs 10 mins       ███████████�
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🐱‍💻 Projects: 
-HannahFasco-Lab4-Sockets 1 hr 47 mins        ██████████████░░░░░░░░░░░   56.02 % 
-assignment1              1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.83 % 
-PuzzleCollection         15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+HannahFasco-Lab4-Sockets 1 hr 47 mins        ██████████████░░░░░░░░░░░   55.89 % 
+assignment1              1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.98 % 
+PuzzleCollection         15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 ```
 
 
- Last Updated on 19/02/2025 12:36:10 UTC
+ Last Updated on 20/02/2025 12:38:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
