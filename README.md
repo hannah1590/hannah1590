@@ -10,7 +10,7 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875.4%20thousand%20lines%20of%20code-blue)
 
@@ -52,7 +52,7 @@ assignment1              12 mins             ███░░░░░░░░�
 ```
 
 
- Last Updated on 21/02/2025 12:38:22 UTC
+ Last Updated on 22/02/2025 12:34:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
