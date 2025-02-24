@@ -10,7 +10,7 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-881.4%20thousand%20lines%20of%20code-blue)
 
@@ -56,7 +56,7 @@ GPR-460                  5 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/02/2025 12:35:14 UTC
+ Last Updated on 24/02/2025 12:39:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
