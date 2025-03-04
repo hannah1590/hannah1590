@@ -18,8 +18,6 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 > 📦 688.0 kB Used in GitHub's Storage 
  > 
-> 🏆 56 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -50,7 +48,7 @@ GOAP                     1 hr 14 mins        ████████░░░�
 ```
 
 
- Last Updated on 03/03/2025 12:39:57 UTC
+ Last Updated on 04/03/2025 12:39:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
