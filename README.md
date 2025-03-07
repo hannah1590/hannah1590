@@ -10,13 +10,15 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2059%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-881.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-882.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 688.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 62 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -27,10 +29,10 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-🌆 Daytime                249 commits         ███████████████████░░░░░░   74.77 % 
-🌃 Evening                57 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+🌆 Daytime                251 commits         ███████████████████░░░░░░   74.48 % 
+🌃 Evening                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 ```
 
 
@@ -40,14 +42,17 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      2 hrs 25 mins       █████████████████████████   100.00 % 
+C++                      5 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Picross                  2 hrs 25 mins       █████████████████████████   100.00 % 
+Picross                  4 hrs 32 mins       ██████████████████████░░░   87.66 % 
+assignment1              36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+raylib-cmake-template-mas1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+GPR-460                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
 
- Last Updated on 06/03/2025 12:39:58 UTC
+ Last Updated on 07/03/2025 12:38:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
