@@ -42,17 +42,14 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      2 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Picross                  2 hrs 6 mins        ███████████████████░░░░░░   76.77 % 
-assignment1              36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-raylib-cmake-template-mas1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-GPR-460                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/03/2025 12:40:35 UTC
+ Last Updated on 14/03/2025 12:38:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
