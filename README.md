@@ -10,7 +10,7 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -42,16 +42,18 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      3 hrs 4 mins        █████████████████████████   99.98 % 
+C++                      3 hrs 5 mins        █████████████████████████   98.57 % 
+Objective-C              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-GPR440                   2 hrs 32 mins       █████████████████████░░░░   82.51 % 
-chess-competition-master 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+GPR440                   2 hrs 32 mins       ████████████████████░░░░░   80.60 % 
+chess-competition-master 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 
 
- Last Updated on 12/04/2025 12:37:46 UTC
+ Last Updated on 13/04/2025 12:38:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
