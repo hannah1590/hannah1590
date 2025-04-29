@@ -10,15 +10,15 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 724.6 kB Used in GitHub's Storage 
+> 📦 783.9 kB Used in GitHub's Storage 
  > 
-> 🏆 81 Contributions in the Year 2025
+> 🏆 83 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -29,10 +29,10 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-🌆 Daytime                344 commits         █████████████████░░░░░░░░   67.32 % 
-🌃 Evening                94 commits          █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+🌞 Morning                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌆 Daytime                348 commits         █████████████████░░░░░░░░   67.05 % 
+🌃 Evening                96 commits          █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 
 
@@ -42,14 +42,17 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      3 mins              █████████████████████████   100.00 % 
+CMake                    9 mins              █████████████████░░░░░░░░   68.39 % 
+C++                      4 mins              ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🐱‍💻 Projects: 
-FinalProject             3 mins              █████████████████████████   100.00 % 
+NetworkingFinal          11 mins             ███████████████████░░░░░░   77.39 % 
+FinalProject             3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
 ```
 
 
- Last Updated on 28/04/2025 12:52:07 UTC
+ Last Updated on 29/04/2025 23:02:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
