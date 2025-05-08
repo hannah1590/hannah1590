@@ -42,16 +42,14 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      4 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GPR440                   3 hrs 24 mins       ███████████████████░░░░░░   75.81 % 
-chess-competition-master 50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Picross                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/05/2025 12:46:49 UTC
+ Last Updated on 08/05/2025 12:43:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
