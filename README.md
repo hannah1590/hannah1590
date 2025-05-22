@@ -10,6 +10,8 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2048%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -47,7 +49,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/05/2025 12:45:52 UTC
+ Last Updated on 22/05/2025 12:45:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
