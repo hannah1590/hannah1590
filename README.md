@@ -18,8 +18,6 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 > 📦 784.7 kB Used in GitHub's Storage 
  > 
-> 🏆 84 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -42,14 +40,16 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      3 hrs 17 mins       █████████████████████████   99.71 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LeetCodeTesting          3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/05/2025 12:40:29 UTC
+ Last Updated on 26/05/2025 12:43:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
