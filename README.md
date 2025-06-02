@@ -42,16 +42,14 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      3 hrs 17 mins       █████████████████████████   99.71 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LeetCodeTesting          3 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/06/2025 12:41:39 UTC
+ Last Updated on 02/06/2025 12:46:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
