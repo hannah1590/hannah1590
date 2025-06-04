@@ -42,14 +42,16 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HannahFasco-Lab4-Sockets 3 mins              ███████████████████████░░   93.98 % 
+HannahFasco-Lab2-BinaryFi0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+GPR440                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
- Last Updated on 03/06/2025 12:47:30 UTC
+ Last Updated on 04/06/2025 12:47:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
