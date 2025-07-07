@@ -1,5 +1,5 @@
 ## Welcome! :smile:
-My name is Hannah Fasco and I am a current Champlain College senior working on getting my degree in Game Programming :video_game::desktop_computer:\
+My name is Hannah Fasco and I am a Champlain College alum with a degree in Game Programming and a minor in Mathematics :video_game::desktop_computer:\
 I have a passion for video games and coding, but love listening to music and solving puzzles :musical_note::jigsaw:\
 \
 Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check out my projects on my [website](https://hannah1590.github.io/)!
