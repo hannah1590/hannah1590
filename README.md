@@ -18,8 +18,6 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 > 📦 979.7 kB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -49,7 +47,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/08/2025 12:47:21 UTC
+ Last Updated on 26/08/2025 12:48:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
