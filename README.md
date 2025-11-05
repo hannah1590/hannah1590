@@ -10,7 +10,7 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -42,15 +42,15 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       1 hr 3 mins         █████████████████████████   100.00 % 
+C#                       3 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GravityFun               55 mins             ██████████████████████░░░   88.23 % 
-Unknown Project          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+GravityFun               3 hrs 31 mins       ████████████████████████░   96.62 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 ```
 
 
- Last Updated on 04/11/2025 12:51:09 UTC
+ Last Updated on 05/11/2025 12:48:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
