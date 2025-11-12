@@ -42,14 +42,14 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       2 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GravityFun               2 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/11/2025 12:48:08 UTC
+ Last Updated on 12/11/2025 12:49:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
