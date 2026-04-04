@@ -42,14 +42,14 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+UndertaleModTool         8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2026 13:11:38 UTC
+ Last Updated on 04/04/2026 13:03:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
