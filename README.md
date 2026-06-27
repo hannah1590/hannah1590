@@ -42,15 +42,15 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   48 mins             █████████████████████████   100.00 % 
+Python                   2 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-100 Days of Code - The Co48 mins             █████████████████████████   99.60 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+100 Days of Code - The Co2 hrs 28 mins       ████████████████████████░   95.56 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 
 
- Last Updated on 26/06/2026 14:31:27 UTC
+ Last Updated on 27/06/2026 13:49:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
