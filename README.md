@@ -10,7 +10,7 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.92%20million%20lines%20of%20code-blue?style=flat)
 
@@ -42,14 +42,18 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   39 mins             █████████████████████████   99.66 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+day-16                   17 mins             ███████████░░░░░░░░░░░░░░   44.22 % 
+oop-coffee-machine-start 13 mins             █████████░░░░░░░░░░░░░░░░   34.19 % 
+100 Days of Code - The Co6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 ```
 
 
- Last Updated on 17/07/2026 13:45:00 UTC
+ Last Updated on 18/07/2026 13:22:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
