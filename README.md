@@ -42,18 +42,19 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   39 mins             █████████████████████████   99.66 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Python                   51 mins             █████████████████████████   99.74 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-day-16                   17 mins             ███████████░░░░░░░░░░░░░░   44.22 % 
-oop-coffee-machine-start 13 mins             █████████░░░░░░░░░░░░░░░░   34.19 % 
-100 Days of Code - The Co6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+day-16                   17 mins             ████████░░░░░░░░░░░░░░░░░   33.38 % 
+oop-coffee-machine-start 13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+practice-code            12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+100 Days of Code - The Co6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 
 
- Last Updated on 18/07/2026 13:22:08 UTC
+ Last Updated on 19/07/2026 13:23:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
