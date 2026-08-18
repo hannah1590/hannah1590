@@ -42,10 +42,10 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-quiz-game-start          17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -55,7 +55,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 17/08/2026 12:49:50 UTC
+ Last Updated on 18/08/2026 12:51:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
