@@ -42,10 +42,14 @@ Find me over at [LinkedIn](https://www.linkedin.com/in/hannahfasco/) or check ou
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 28 mins        █████████████████████████   99.99 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+practice-code            1 hr 6 mins         ███████████████████░░░░░░   75.03 % 
+hirst-painting-start     20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+quiz-game-start          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -55,7 +59,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/10/2026 16:39:19 UTC
+ Last Updated on 06/10/2026 18:06:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
